@@ -75,8 +75,8 @@ Master of Photonics
 <!-- Contact me -->
 #### Contact me
 
-[![Instagram Badge](https://img.shields.io/badge/-@sadegh.mhfr?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sadegh.mhfr/)](https://instagram.com/sadegh.mhfr)
-[![Telegram Badge](https://img.shields.io/badge/-@sadegh_mohammadifar?style=flat&logo=telegram&logoColor=white&link=https://www.telegram.me/sadegh_mohammadifar)](https://www.telegram.me/sadegh_mohammadifar)
+[![Instagram Badge](https://img.shields.io/badge/-@sadegh.mhfr-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sadegh.mhfr/)](https://instagram.com/sadegh.mhfr)
+[![Telegram Badge](https://img.shields.io/badge/-@sadegh_mohammadifar-blue?style=flat&logo=telegram&logoColor=white&link=https://www.telegram.me/sadegh_mohammadifar)](https://www.telegram.me/sadegh_mohammadifar)
 
 <!-- End of contact me -->
 
